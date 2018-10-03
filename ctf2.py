@@ -1,5 +1,5 @@
 import re
-
+# importing re provides full suppoprt of regular expressions. 
 a=[]
 l=[]
 while True:
